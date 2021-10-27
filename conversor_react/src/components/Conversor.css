@@ -1,0 +1,13 @@
+.conversor {
+    padding: 20px;
+    width: 450px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+}
+
+.espacamentoCima {
+    margin-top: 15px;
+}
+
+.espacamentoBaixo {
+    margin-bottom: 15px;
+}
